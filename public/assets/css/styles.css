@@ -74,6 +74,8 @@ body {
 
 @media only screen and (max-width: 600px) {
   .note-title {
+    margin-left: none;
+    padding-left: none;
     font-size: 2rem;
     height: 80px;
   }
