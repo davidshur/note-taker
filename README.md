@@ -1,6 +1,6 @@
 # note-taker
 
-Takes notes with a backend. Experience the live site at HEROKU.
+Takes notes with a backend. Experience the live site at [Heroku](https://note-taker-29587.herokuapp.com/).
 
 ## Installation
 
