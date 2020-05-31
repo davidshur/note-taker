@@ -30,10 +30,6 @@ This will run the app locally, where you can experiment. In your browser, you wi
 
 ## Credits
 
-Folder system and some code given by my bootcamp.
-
-Thanks to Akhil (my bootcamp instructor) for teaching me all this stuff!
-
 In my project I use express. Couldn't have done it without them!
 
 ## License
